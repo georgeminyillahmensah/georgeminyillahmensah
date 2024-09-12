@@ -1,5 +1,16 @@
 # 💫 About Me:
-Aspiring Data Scientist with a background in software engineering<br>A passion for leveraging data to drive social impact. <br>Experienced in backend development, with hands-on skills in Python, Django, and database management.<br>I've worked with organizations where I used technology to solve real-world challenges and empower communities. <br>I am constantly exploring new technologies to enhance my skills and contribute to innovative projects. <br>Let's build something impactful together!
+
+I'm George Mensah Minyillah, a passionate software engineer and an aspiring data scientist and educator! Here’s a little more about me:
+
+- 🔭 I’m currently working on **a Django-based mentor-to-mentee system that pairs them up based on preference using machine learning** and developing a **quiz application** with logging features.
+- 🌱 I’m currently learning more about **backend development, data science**, and exploring **AI integrations** in web applications.
+- 👯 I’m looking to collaborate on **backend projects** that involve **Django, Flask**, or **Node.js** also **Machine Learning Project and AI**.
+- 🤔 I’m looking for help with **optimizing data structures** and scaling web applications.
+- 💬 Ask me about **Django models, Python, and database management**—I love solving complex backend challenges!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m passionate about teaching tech to young women in Africa through the **Tech4Girls program**, where I mentor and lead real-world web development projects!
+
+Let’s build something amazing together!
 
 
 ## 🌐 Socials:
